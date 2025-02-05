@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Incorrect_Mask', 'With_Mask', 'Without_Mask']
+
+roboflow:
+  workspace: ammar-workspace
+  project: face-mask-detection-2-oezvq
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ammar-workspace/face-mask-detection-2-oezvq/dataset/4
