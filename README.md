@@ -15,8 +15,8 @@ The model is trained to detect three categories:
 
 # How to Run
 1. Clone the repository:
-  git clone https://github.com/Dimitarbalo/face-mask-detection.git
-  cd face-mask-detection
+  git clone https://github.com/Dimitarbalo/face-mask-detection.git\n
+  cd face-mask-detection\n
 2. Install dependencies
    pip install -r requirements.txt
 3. Run the model on an image or video:
