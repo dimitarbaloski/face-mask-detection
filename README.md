@@ -20,7 +20,7 @@ The model is trained to detect three categories:
 2. Install dependencies</br>
    pip install -r requirements.txt
 3. Run the model on an image or video:</br>
-   python detect_mask.py --source image.jpg  # For a single image
+   python detect_mask.py --source image.jpg  # For a single image</br>
    python detect_mask.py --source video.mp4  # For a video
 
 
