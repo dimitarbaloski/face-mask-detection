@@ -14,13 +14,13 @@ The model is trained to detect three categories:
 4. The processed image/video is displayed with detections.
 
 # How to Run
-1. Clone the repository:
+1. Clone the repository:</br>
   git clone https://github.com/Dimitarbalo/face-mask-detection.git</br>
-  cd face-mask-detection</br>
-2. Install dependencies
-   pip install -r requirements.txt</br>
-3. Run the model on an image or video:
-   python detect_mask.py --source image.jpg  # For a single image</br>  
+  cd face-mask-detection
+2. Install dependencies</br>
+   pip install -r requirements.txt
+3. Run the model on an image or video:</br>
+   python detect_mask.py --source image.jpg  # For a single image
    python detect_mask.py --source video.mp4  # For a video
 
 
