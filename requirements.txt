@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy  
 opencv-python  
 ultralytics  
@@ -5,3 +6,12 @@ matplotlib
 pandas  
 torch  
 torchvision  
+=======
+numpy  
+opencv-python  
+ultralytics  
+matplotlib  
+pandas  
+torch  
+torchvision  
+>>>>>>> f94182cd5cef70b5000059fba4683438f2fcc2ba
